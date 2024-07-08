@@ -1,10 +1,10 @@
-# shoppingapp
+# superstoreapp
 
 A simple shopping app built with Flutter.
 
 ## Description
 
-ShoppingApp is a simple mobile application that allows users to browse through products, add them to a cart, and proceed to checkout. The app demonstrates basic Flutter concepts such as navigation, state management, apis,and custom widgets .
+superstoreApp is a simple mobile application that allows users to browse through products, add them to a cart, and proceed to checkout. The app demonstrates basic Flutter concepts such as navigation, state management, apis,and custom widgets .
 
 - **Usage:** 
 1. Home Screen: Browse through the list of products.
@@ -20,12 +20,16 @@ ShoppingApp is a simple mobile application that allows users to browse through p
 - Remove products from cart
 - View total price of products in cart
 - Checkout process
-
+## Note
+ - This app is built with Flutter and uses the following packages:
 ## dependencies
 - http
 - provider
 - carousel_slider
 - flutter_lorem
+
+## note 2
+- users can add product to cart from the viewproduct page cause of th api that was given
 
 ## Installation
 
@@ -33,8 +37,8 @@ Follow these steps to set up the project locally:
 
 1. **Clone the repository:**
    ```sh
-   git clone  https://github.com/Omozuas/shoppingexpress.git
-   cd shoppingapp
+   git clone  https://github.com/Omozuas/superstore.git
+   cd superstoreapp
 2. **Install Flutter dependencies**
    flutter pub get
 3. **Run the app**
@@ -55,9 +59,10 @@ Follow these steps to set up the project locally:
 3. **viewProduct Page**
 ![viewProduct Page](assets/screenshots/viewProductPage.png)
 
-- **APK Download:** (https://appetize.io/app/iaoqrikxiv72iyaix45krrj5ey?device=pixel7&osVersion=13.0).
+- **APK Download:** (https://appetize.io/app/b_3lgv26wx4uavzv6ejkjcxygr5m).
 - **Contact Information:** 
 - **Name**:`Omozua Judah ` 
 - **Email**:`iyanuomozua.email@example.` 
 - **GitHub**:(https://github.com/Omozuas)
+- **GitHub repo of project**:(https://github.com/Omozuas/superstore.git) 
 
